@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Finish_Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="farenheight">\u2109</string>
+    <string name="celcium">℃</string>
+
+    <string name="metric">℃</string>
+
+    <string-array name="Settings">
+        <item>℃</item>
+        <item>\u2109</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
